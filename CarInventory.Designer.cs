@@ -63,6 +63,7 @@ namespace FinalProjectMDINicholasShortt
             this.checkBoxNew.Size = new System.Drawing.Size(86, 34);
             this.checkBoxNew.TabIndex = 8;
             this.checkBoxNew.Text = "&New:";
+            this.toolTip.SetToolTip(this.checkBoxNew, "Check if the car is new.");
             this.checkBoxNew.UseVisualStyleBackColor = true;
             // 
             // textBoxPrice
